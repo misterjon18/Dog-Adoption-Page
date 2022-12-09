@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.content {
+  background-color: green;
+}
+h2 {
+  padding: 10px;
+  text-transform: uppercase;
+}
+p {
+  font-weight: bold;
+  padding: 10px;
+}
+div {
+  border: solid 2px black;
+  margin-bottom: 20px;
+  background-color: rgba(21, 172, 232, 0.868);
+}
+
+img {
+  width: 256px;
+  height: 256px;
+}
